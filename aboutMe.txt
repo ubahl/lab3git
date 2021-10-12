@@ -2,3 +2,4 @@ Name: Uma
 Major: COEN
 Year: Senior
 Hobbies: Boba
+Courses this quarter: COEN 174, COEN 161, TESP 119, COEN 194, HNRS 194
